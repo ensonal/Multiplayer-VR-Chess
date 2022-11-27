@@ -1,0 +1,4 @@
+#Sat Nov 26 20:53:49 EET 2022
+base.0=C\:\\VR Chess\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
